@@ -1,0 +1,2 @@
+# Atanua0
+Project Atanua analyzes photographs, taken by cameras, as well as smartphones. The ambient daylight color, the sky color, and/or other atmospheric optical phenomena - whichever is available - is analyzed to draw conclusions about relevant parameters, including that of the Aerosol present in the Atmosphere within the Frame of the picture. Name : From the polynessian dawn Goddess. Dawnbreak makes the sky burst in colours. 
